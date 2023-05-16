@@ -1,0 +1,52 @@
+{
+  "seller": [
+    {
+      "name": "V.Sai Mukesh Reddy",
+      "email": "mukeshvancha122@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "V.Sai Mukesh Reddy",
+      "email": "mukeshvancha122@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "V.Satyanarayana Reddy",
+      "email": "mukeshvancha122@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "V.Satyanarayana Reddy",
+      "email": "mukeshvancha122@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "satyanarayana reddy",
+      "email": "19b61a05f9@nmrec.edu.in",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "V.Satyanarayana Reddy",
+      "email": "mukeshvancha122@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "satyanarayana reddy",
+      "email": "19b61a05f9@nmrec.edu.in",
+      "password": "78+9654",
+      "id": 7
+    },
+    {
+      "name": "satyanarayana reddy",
+      "email": "19b61a05f9@nmrec.edu.in",
+      "password": "78965",
+      "id": 8
+    }
+  ]
+}
